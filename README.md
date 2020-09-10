@@ -7,8 +7,8 @@ cloc, http://cloc.sourceforge.net/, is a robust command line program that provid
 
 # DataStructures Project
 https://github.com/will7hughes/DataStructures.git
-
-70 text files.
+```
+      70 text files.
       70 unique files.
       30 files ignored.
 
@@ -23,14 +23,14 @@ Markdown                         1              4              0             13
 -------------------------------------------------------------------------------
 SUM:                            51           2522           3814           5891
 -------------------------------------------------------------------------------
-
+```
 # Java Lab 4, 6, 7, 8, 9
 https://github.com/will7hughes/Lab04.git</br>
 https://github.com/will7hughes/Lab06.git</br>
 https://github.com/will7hughes/Lab07.git</br>
 https://github.com/will7hughes/Lab08.git</br>
 https://github.com/will7hughes/Lab09.git</br>
-
+```
      220 text files.
      211 unique files.
       48 files ignored.
@@ -49,3 +49,4 @@ XML                              2              3              0             18
 -------------------------------------------------------------------------------
 SUM:                           204            688           6554          22801
 -------------------------------------------------------------------------------
+```
